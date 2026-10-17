@@ -21,4 +21,4 @@ So... I might have messed up. Somehow I didn't notice how gargantuan the base nR
 # October 17: PCB Editing (sorta)
 The keyboard plugin isn't working for some reason, and my keys are all misaligned on the PCB editor. Also, I didn't think about this earlier, but my matrix doesn't match my actual key layout, so I have to do everything weirdly on the PCB editor. I wasted an hour trying to figure that out. I also switched my keys to 45-degree symbols just cuz. That was the only real progress made today. I also downloaded a library for stabilizers.  This has been the longest I have spent on the project so far, and yet it is the least amount of work that has been accomplished. >:C
 <img width="906" height="604" alt="image" src="https://github.com/user-attachments/assets/8e22d2e8-cd5b-4dd2-8730-bbd026c6e92b" />
-(Time Spent: 2 hours 15 minutes)
+     (Time Spent: 2 hours 15 minutes)
