@@ -14,6 +14,11 @@ I decided that I'd attempt to make a wireless keyboard. This came with a set of 
 (Time Spent: 2 hours 5 minutes)
 
 # October 16: Switching EVERYTHING...
-So... I might have messed up. Somehow I didn't notice how gargantuan the base nRF52840 is. So, I made the move of switching over to the nice!nano, which is a smaller dev board of the nRF52840. That came with it's own set of problems but also solutions. The dev board handles a good amount of the struggles with Bluetooth and the battery that I would have had. However, it wasn't all sunshine and rainbows. I had to redo the matrix because of the lack of GPIO pins on the nice!nano. Honestly, the matrix I first made was terrible anyways, not to say the current one doesn't need improvement. Long story short, the schematic is finished. 
+So... I might have messed up. Somehow I didn't notice how gargantuan the base nRF52840 is. So, I made the move of switching over to the nice!nano, which is a smaller dev board of the nRF52840. That came with its own set of problems but also solutions. The dev board handles a good amount of the struggles with Bluetooth and the battery that I would have had. However, it wasn't all sunshine and rainbows. I had to redo the matrix because of the lack of GPIO pins on the nice!nano. Honestly, the matrix I first made was terrible anyways, not to say the current one doesn't need improvement. Long story short, the schematic is finished. 
 <img width="1031" height="739" alt="image" src="https://github.com/user-attachments/assets/b3d49120-aaa9-41db-a26d-4f00f69a9d63" />
 (Time Spent: 1 hour 30 minutes)
+
+#October 17: PCB Editing (sorta)
+The keyboard plugin isn't working for some reason, and my keys are all misaligned on the PCB editor. Also, I didn't think about this earlier, but my matrix doesn't match my actual key layout, so I have to do everything weirdly on the PCB editor. I wasted an hour trying to figure that out. I also switched my keys to 45-degree symbols just cuz. That was the only real progress made today. I also downloaded a library for stabilizers.  This has been the longest I have spent on the project so far, and yet it is the least amount of work that has been accomplished. >:C
+<img width="906" height="604" alt="image" src="https://github.com/user-attachments/assets/8e22d2e8-cd5b-4dd2-8730-bbd026c6e92b" />
+(Time Spent: 2 hours 15 minutes)
