@@ -22,3 +22,12 @@ So... I might have messed up. Somehow I didn't notice how gargantuan the base nR
 The keyboard plugin isn't working for some reason, and my keys are all misaligned on the PCB editor. Also, I didn't think about this earlier, but my matrix doesn't match my actual key layout, so I have to do everything weirdly on the PCB editor. I wasted an hour trying to figure that out. I also switched my keys to 45-degree symbols just cuz. That was the only real progress made today. I also downloaded a library for stabilizers.  This has been the longest I have spent on the project so far, and yet it is the least amount of work that has been accomplished. >:C
 <img width="906" height="604" alt="image" src="https://github.com/user-attachments/assets/8e22d2e8-cd5b-4dd2-8730-bbd026c6e92b" />
      (Time Spent: 2 hours 15 minutes)
+     
+# October 18: The day of reckoning...
+So I made negative progress today. Yes I went backwards. So I got to the PCB routing part, and I was doing pretty well. Actually, no I wasn't; it took me way too long to get the connections to work. And I finally had everything ready and almost complete. Until I realized I didn't have space for the connections to the GPIO pins. 
+<img width="1277" height="532" alt="keyboardproto" src="https://github.com/user-attachments/assets/eeef0b47-72e2-4ef9-ad43-34bac2895696" />
+So, instead of doing the normal thing, like switching to the back (which I forgot I could do) or just having the connections go outward more. I decided to redo my matrix. Honestly, I don't know why I chose a square matrix; I should have just matched the keyboard layout.  
+<img width="1245" height="617" alt="newmatrix" src="https://github.com/user-attachments/assets/d5eb7708-0d62-4a5b-8830-ce670ff2b07b" />
+So I did that, but  when I did it ended up not working when I tried to use the Keyboard Placer plugin. I then scoured the internet for a fix, to no luck. So, I decided to switch back to the square matrix. In total I have wasted countless hours of my time, and I just ended up farther back than when I started. 
+(Time Spent: 4 hours 10 minutes) 
+
