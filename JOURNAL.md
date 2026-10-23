@@ -31,3 +31,8 @@ So, instead of doing the normal thing, like switching to the back (which I forgo
 So I did that, but  when I did it ended up not working when I tried to use the Keyboard Placer plugin. I then scoured the internet for a fix, to no luck. So, I decided to switch back to the square matrix. In total I have wasted countless hours of my time, and I just ended up farther back than when I started. 
 (Time Spent: 4 hours 10 minutes) 
 
+# October 19 - 23: Routing the PCB
+I stuck with the square matrix. Routing was the worst thing I did. I started over like 2 times when I realized that I made mistakes with the patterns I wanted to do. I spent forever getting the wires to work, and near the end I thought I would have to start over because I forgot to finish one of the wire patterns from the earlier steps. Luckily, I managed to figure it out after a whole lot of trial and error. This was probably the most mind-numbing part of this whole project. It took me forever because of little mistakes I made from trying to rush it. The main  takeaway I learned is that you shouldn't use auto-route too often and should leave space properly; otherwise, you're cooked. 
+<img width="1253" height="491" alt="image" src="https://github.com/user-attachments/assets/8887fbbc-2fb4-45c6-be16-dae556d508a3" />
+(Time Spent: 5 hours 30 minutes)
+
