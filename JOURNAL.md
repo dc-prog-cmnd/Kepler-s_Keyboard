@@ -36,3 +36,8 @@ I stuck with the square matrix. Routing was the worst thing I did. I started ove
 <img width="1253" height="491" alt="image" src="https://github.com/user-attachments/assets/8887fbbc-2fb4-45c6-be16-dae556d508a3" />
 (Time Spent: 5 hours 30 minutes)
 
+# October 23 - 25 Actually Routing the PCB
+So it turns out that I put the microcontroller in a spot that you couldn't connect the USB to it. You can see this in my previous image. I felt pretty stupid afterwards. I was really considering adding a daughterboard at this point, but I stuck it out. I redid the PCB, and I decided to do a time-lapse this time because I wanted to see how much I've improved. It felt nice seeing how much faster I've gotten, but I am still pretty slow. Also, I didn't finish the PCB in my time-lapse for 2 reasons: the first reason was that it was like almost 2 A.M. and the second reason was it was going to take away all the aura of the time-lapse. I knew that the last 10 traces were beyond cooked, and I wasn't going to be able to finish them in a reasonable time for the time-lapse. I didn't want to spend over 1/3 of the time-lapse on 10 traces. But it's still tuff. 
+<img width="1203" height="570" alt="image" src="https://github.com/user-attachments/assets/3c38e871-49b9-4fa5-963b-6147f753754b" />
+
+
