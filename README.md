@@ -20,10 +20,11 @@ I finished the case, and I think that I'll make it out of wood. My school has go
 
 
 #Bill of Materials (BOM) 
-(4) 25 mm M2 screws https://www.aliexpress.us/item/3256807078530561.html?src=google&src=google&albch=shopping&acnt=726-617-3133&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=_oFgTQeV&gclsrc=aw.ds&albagn=888888&ds_e_adid=829776429968&ds_e_matchtype=search&ds_e_device=c&ds_e_network=g&ds_e_product_group_id=2506999144771&ds_e_product_id=en3256807078530561&ds_e_product_merchant_id=5851713403&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=24402852857&albag=202285061700&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=24402852857&gbraid=0AAAABCtrN2u8UgsDtUMcHCRfvjY4xzkeU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ekiHHFFbVUaYzU9q1kjZnOzwCnma3S7NhjmPgaoK4_kdptyp8SSNBoCVR8QAvD_BwE&gatewayAdapt=glo2usa
-(1) Nice!nano Microcontroller  https://typeractive.xyz/products/nice-nano?utm_source=nicekeyboards&utm_medium=referral&utm_campaign=find-a-store
-(88) 1N4148W switching diodes https://www.aliexpress.us/item/3256806459845185.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256806459845185&ds_e_product_merchant_id=5851713403&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19558607238&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=19566915268&gbraid=0AAAAAD6I-hF0ve3_N-PWiAOkNPUiXaaHq&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ZuHXSttWAjwxGZej7I5ZCdHSmvVcr6n-iKQHRfffYzYzXCIEI4iIBoCjxsQAvD_BwE&gatewayAdapt=glo2usa
-(84) Cherry Mx Red Switches https://mechanicalkeyboards.com/products/cherry-mx-red-45g-linear?variant=47357318857004&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AYCX9vJG5uMip49w0BGRKPDUJIuLfx79qNz5vjz3Oq0oc9k3YgHyJscn0eQ
-(1) Push-button THT Switch https://www.digikey.com/en/products/detail/e-switch/TL1105AF160Q/80826?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336967819&gbraid=0AAAAADrbLljgcUd8r9HbCR6ImReYLfBQF&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7fGW0XXS1nbH4ptS2ZJfgN_YK48wTDW01eHDuDLUhlpBfi2LKcJ7txoCH7cQAvD_BwE
-(1) Alps EC11E Rotary Encoder https://www.aliexpress.us/item/3256812589484999.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256812589484999&ds_e_product_merchant_id=5851713403&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19558607238&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=19566915268&gbraid=0AAAAAD6I-hF0ve3_N-PWiAOkNPUiXaaHq&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7Z0CyD2ZVp2vedF9t4eUWfjfprxIrk4V3byrhtH24C4zkR9wSyuDrRoCbSoQAvD_BwE&gatewayAdapt=glo2usa
-(1) Lithium Battery 110mAh https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731632871
+(4) 25 mm M2 screws
+(1) Nice!nano Microcontroller 
+(88) 1N4148W switching diodes 
+(84) Cherry MX Red Switches
+(84) Blank White DSA Keycaps
+(1) Push-button THT Switch 
+(1) Alps EC11E Rotary Encoder 
+(1) Lithium Battery 110mAh: 
