@@ -2,6 +2,23 @@
 I started this a while ago, and I learned a lot of new things about electronics and design as a result. It was one of the most frustrating things I have ever done, but I think that the final product will turn out well (fingers crossed)
 <img width="1386" height="794" alt="image" src="https://github.com/user-attachments/assets/31d315e5-43b5-4359-8d82-1f67212cf08b" />
 I finished the case, and I think that I'll make it out of wood. My school has got some saws for me to work with, and I think it'll be a fun challenge. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Bill of Materials (BOM) 
 (4) 25 mm M2 screws https://www.aliexpress.us/item/3256807078530561.html?src=google&src=google&albch=shopping&acnt=726-617-3133&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=_oFgTQeV&gclsrc=aw.ds&albagn=888888&ds_e_adid=829776429968&ds_e_matchtype=search&ds_e_device=c&ds_e_network=g&ds_e_product_group_id=2506999144771&ds_e_product_id=en3256807078530561&ds_e_product_merchant_id=5851713403&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=24402852857&albag=202285061700&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=24402852857&gbraid=0AAAABCtrN2u8UgsDtUMcHCRfvjY4xzkeU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ekiHHFFbVUaYzU9q1kjZnOzwCnma3S7NhjmPgaoK4_kdptyp8SSNBoCVR8QAvD_BwE&gatewayAdapt=glo2usa
 (1) Nice!nano Microcontroller  https://typeractive.xyz/products/nice-nano?utm_source=nicekeyboards&utm_medium=referral&utm_campaign=find-a-store
