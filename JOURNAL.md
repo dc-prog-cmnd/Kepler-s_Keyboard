@@ -42,4 +42,9 @@ So it turns out that I put the microcontroller in a spot that you couldn't conne
 https://youtu.be/dmbHNU57efs  (Time-Lapse Video)
 (Time Spent: 3 hours 20 minutes)
 
-
+# November 5 - 23
+I took a little bit of a break... But I came back stronger than ever. I finished the layout, then I realized that I needed a plate, and I was low-key lost on what I should make for my plate. I used a tutorial on how to make a plate that I was also using to help with my PCB design. And he was using the same material as a PCB, which I thought was a good idea, so I did that. Then, I had to start on the case. Honestly, it wasn't that bad except for the times it was. Though I eventually finished the case, I didn't know how to make Bour Holes (or however you spell them) and then I made one and then I realized that they were off center so I might have used the a.i. on Fusion to realign everything, so... that wasn't my best moment. Finally, I finished it. 
+<img width="892" height="560" alt="image" src="https://github.com/user-attachments/assets/8ec4a32a-5066-40f4-909a-ebac5cd94561" />
+cool right?!
+<img width="1386" height="794" alt="image" src="https://github.com/user-attachments/assets/17baa8ea-b94e-4253-a7a2-a8c9c3ee2168" />
+(Time Spent: 6 hours 30 minutes)
