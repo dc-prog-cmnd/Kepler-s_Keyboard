@@ -1,0 +1,10 @@
+file_format: "1"
+id: kep1er
+name: Kepler's_keyboard
+type: shield
+url: https://example.com
+features:
+  - keys
+  - encoder
+requires:
+  - pro_micro
